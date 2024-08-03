@@ -1,4 +1,4 @@
-import textwrap
+import textwrap #split the string based on max_width
 
 def wrap(string, max_width):
     return textwrap.fill(string,max_width)

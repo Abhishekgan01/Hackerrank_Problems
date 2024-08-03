@@ -1,4 +1,4 @@
-def merge_the_tools(string, k):
+def merge_the_tools(string, k): #AABCAAADA 3 - Output:AA CA AD
     c=0
     s=''
     for i in string:
