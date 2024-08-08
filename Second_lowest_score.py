@@ -6,6 +6,7 @@ for _ in range(int(input())):
     score = float(input())
     nestList.append([name,score])
     tempscore.append(score)
+    
         
     tempscore=list(set(tempscore))
     tempscore.sort()
